@@ -1,6 +1,6 @@
 spring:
   application:
-    name: CUSTOMER-SERVICE
+    name: CUSTOMER-SERVICEtt
   data:
     mongodb:
       host: localhost
