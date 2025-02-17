@@ -5,12 +5,12 @@ spring:
     mongodb:
       host: localhost
       port: 27017
-      database: customer
+      database: customert
       username: admin
       password: password
       authentication-database: admin
 server:
-  port: 8060
+  port: 8068
 
 
 
