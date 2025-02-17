@@ -28,3 +28,5 @@ jwt:
             converter:
               resource-id: microservices-rest-api
               principle-attribute: preferred_username
+dev:
+  frt: tt
