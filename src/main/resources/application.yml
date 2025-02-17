@@ -10,7 +10,7 @@ spring:
       password: password
       authentication-database: admin
 server:
-  port: 8060
+  port: 8068
 
 
 
